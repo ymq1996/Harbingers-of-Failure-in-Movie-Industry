@@ -1,7 +1,7 @@
 # Harbingers-of-Failure-in-Movie-Industry
 "Harbingers of Failure" refers to certain group of customers with peculiar tastes whose early adoption of a new product indicates it might be a flop. "Harbingers of Failure" effect, discovered by a group of MIT researchers, originally was an unconventional phenomenon in the retail industry. This project, using the online movie rating data, successfully proves that harbingers of failure also exist in the movie industry. <br />
 
-To help you understand harbingers of failure effect, the article published by MIT News is recommended to you. <br />
+To help you better grasp the "harbingers of failure" effect, the article published by MIT News is recommended to you. <br />
 http://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223 <br />
 
 The project consists of two parts: data collection and machine learning.
